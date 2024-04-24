@@ -107,7 +107,9 @@ variable.
 
 #### Model Evaluation
 f1 score: 0.43170320404721757
+
 roc-auc score: 0.7486687848432696
+
 accuracy score: 0.7955097087378641
 
 ### Decision Tree
@@ -118,7 +120,9 @@ We found the optimum results with max_depth = 5
 
 #### Model Evaluation
 f1 score: 0.3924528301886792
+
 roc-auc score: 0.7844553050027212
+
 accuracy score:0.9023058252427184
 
 ### Random Forest
@@ -126,7 +130,9 @@ We fit the data with the Random Forest Classifier method. We found the optimum
 result with max_depth = 6 and n_estimators = 10
 #### Model Evaluation
 f1 score: 0..35856573705179284
+
 roc-auc score: 0.8073617669123164
+
 accuracy score: 0.9023058252427184
 
 #####  classification report for the model
@@ -143,7 +149,9 @@ With cross validation, we did with num_boost_round = 500 and nfold=5. We found
 the below result.
 ![cross validation](https://github.com/Sakshi1234-debug/pronsifier/assets/149681034/3184173f-abf7-4154-80c1-b99fabf94a88)
 f1 score: 0.38554216867469876
+
 roc-auc score:0.7679971463454098
+
 accuracy score:0.8968446601941747
 
 ## Findings
